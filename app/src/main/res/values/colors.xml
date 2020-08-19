@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="headerButton">#9DA4A9</color>
+    <color name="normalButton">#C0C7CC</color>
+    <color name="orangeButtons">#FF963B</color>
+    <color name="gradientStart">#655B57</color>
+    <color name="gradientFinish">#8C888A</color>
+    <color name="resultText">#E8E2E5</color>
+    <color name="orangeButtonText">#E8E2E5</color>
+</resources>
